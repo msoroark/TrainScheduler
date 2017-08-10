@@ -1,0 +1,42 @@
+.tains-h1 {
+	background-color: #4AAAA5;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	color: white;
+	text-align: center;
+	font-weight: 400;
+	letter-spacing: 3px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.panel-default>.panel-heading {
+	background-color: #4AAAA5;
+	color: white;
+}
+
+.fa-4x {
+	color: white;
+}
+
+.fa-4x {
+	font-size: 63px;
+ }
+
+.input-group {
+	width: 100%;
+}
+
+.btn {
+	margin-top: 20px;
+}
+
+#headerRow {
+	border-bottom: 1px solid gray;
+	margin: 0 10px;
+}
